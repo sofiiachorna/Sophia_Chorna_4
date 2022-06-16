@@ -1,0 +1,14 @@
+C:\Users\Sophia\source\repos\Lab_4_oop\bin\Debug\netcoreapp3.1\Lab_4_oop.exe
+C:\Users\Sophia\source\repos\Lab_4_oop\bin\Debug\netcoreapp3.1\Lab_4_oop.deps.json
+C:\Users\Sophia\source\repos\Lab_4_oop\bin\Debug\netcoreapp3.1\Lab_4_oop.runtimeconfig.json
+C:\Users\Sophia\source\repos\Lab_4_oop\bin\Debug\netcoreapp3.1\Lab_4_oop.runtimeconfig.dev.json
+C:\Users\Sophia\source\repos\Lab_4_oop\bin\Debug\netcoreapp3.1\Lab_4_oop.dll
+C:\Users\Sophia\source\repos\Lab_4_oop\bin\Debug\netcoreapp3.1\Lab_4_oop.pdb
+C:\Users\Sophia\source\repos\Lab_4_oop\obj\Debug\netcoreapp3.1\Lab_4_oop.csproj.AssemblyReference.cache
+C:\Users\Sophia\source\repos\Lab_4_oop\obj\Debug\netcoreapp3.1\Lab_4_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophia\source\repos\Lab_4_oop\obj\Debug\netcoreapp3.1\Lab_4_oop.AssemblyInfoInputs.cache
+C:\Users\Sophia\source\repos\Lab_4_oop\obj\Debug\netcoreapp3.1\Lab_4_oop.AssemblyInfo.cs
+C:\Users\Sophia\source\repos\Lab_4_oop\obj\Debug\netcoreapp3.1\Lab_4_oop.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\source\repos\Lab_4_oop\obj\Debug\netcoreapp3.1\Lab_4_oop.dll
+C:\Users\Sophia\source\repos\Lab_4_oop\obj\Debug\netcoreapp3.1\Lab_4_oop.pdb
+C:\Users\Sophia\source\repos\Lab_4_oop\obj\Debug\netcoreapp3.1\Lab_4_oop.genruntimeconfig.cache
